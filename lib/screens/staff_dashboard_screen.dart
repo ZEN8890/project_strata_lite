@@ -16,7 +16,7 @@ class _StaffDashboardScreenState extends State<StaffDashboardScreen> {
   int _selectedIndex = 0; // Indeks halaman yang dipilih
 
   // State untuk data pengguna di DrawerHeader (mirip AdminDashboard)
-  String _drawerUserName = 'Memuat Nama...';
+  String _drawerUserName = 'Memuat Nama....';
   String _drawerUserEmail = 'Memuat Email...';
   String _drawerUserDepartment = 'Memuat Departemen...';
   bool _isDrawerLoading = true;
